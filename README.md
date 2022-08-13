@@ -15,7 +15,7 @@ Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Di
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/willybueno"/>
   </a>
   
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=solidity&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+  <a href="https://api.whatsapp.com/send?phone=5543996058197" alt="Whatsapp">
+    <img src="https://img.shields.io/badge/-Whatsapp-6610F2?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&link=https://api.whatsapp.com/send?phone=5543996058197"/>
   </a>
 </p>
