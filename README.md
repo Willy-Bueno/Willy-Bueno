@@ -1,6 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=Willy-Bueno&color=006bed)
-
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
@@ -42,7 +40,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Encontr-me: </h3> 
 
 [![Linkedin: Willy Camargo Bueno](https://img.shields.io/badge/-willybueno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willybueno/)](https://www.linkedin.com/in/willybueno/)
 [![Gmail Badge](https://img.shields.io/badge/-willybueno090@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willybueno090@gmail.com)](mailto:SEU-EMAIL)
