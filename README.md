@@ -9,8 +9,8 @@ Meu nome é willy, sou um entusiasta em tecnologia,atualmente estudo **análise 
   <img src="https://img.shields.io/badge/-Javascript-6610F2?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Typescript-6610F2?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/-Solidity-6610F2?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-React-6610F2?style=for-the-badge&logo=reactjs&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-NextJs-6610F2?style=for-the-badge&logo=nextjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-React-6610F2?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Next-6610F2?style=for-the-badge&logo=next&logoColor=FFFFFF"/>
 </p>
 
 #### Caso queira entrar em contato:
