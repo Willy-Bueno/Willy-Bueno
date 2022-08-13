@@ -2,16 +2,31 @@
 
 ## Sobre mim ☕
 
-Meu nome é willy, sou um entusiasta em tecnologia,atualmente estudo **análise e desenvolvimento de sistemas** na Uninter. Ainda estou em busca da primeira oportunidade, não tenho uma experiência em uma empresa, porém estudo a um bom tempo. Meu foco atualmente é aprender mais sobre **TDD e Clean Code**.
+   Meu nome é willy, sou um entusiasta em tecnologia, atualmente estudo **análise e desenvolvimento de sistemas** na Uninter. Ainda estou em busca da primeira oportunidade, não tenho uma experiência em uma empresa, porém estudo a um bom tempo. Meu foco atualmente é aprender mais sobre **TDD e Clean Code**.
 
-### Skills
-<p align="left">
-  <img src="https://img.shields.io/badge/-Javascript-6610F2?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Typescript-6610F2?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Solidity-6610F2?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-React-6610F2?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/-Next-6610F2?style=for-the-badge&logo=next&logoColor=FFFFFF"/>
-</p>
+### Skills minhas 🚀
+  #### Techs
+  <p align="left">
+    <img src="https://img.shields.io/badge/-Javascript-6610F2?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Typescript-6610F2?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Solidity-6610F2?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-React-6610F2?style=for-the-badge&logo=react&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Next-6610F2?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Jest-6610F2?style=for-the-badge&logo=jest&logoColor=FFFFFF"/>
+  </p>
+  
+  #### Utilidades
+  <p align="left">
+    <img src="https://img.shields.io/badge/-Insomnia-6610F2?style=for-the-badge&logo=insomnia&logoColor=FFFFFF"/>
+  </p>
+  
+  #### DevOps
+  <p align="left">
+    <img src="https://img.shields.io/badge/-Git-6610F2?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Github-6610F2?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+    <img src="https://img.shields.io/badge/-Docker-6610F2?style=for-the-badge&logo=docker&logoColor=FFFFFF"/>
+  </p>
+  
 
 #### Caso queira entrar em contato:
 
