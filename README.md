@@ -1,14 +1,23 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-## Hello World ☕
+## Sobre mim ☕
 
-Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Digital House. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.
+Meu nome é willy, sou um entusiasta em tecnologia,atualmente estudo **análise e desenvolvimento de sistemas** na Uninter. Ainda estou em busca da primeira oportunidade, não tenho uma experiência em uma empresa, porém estudo a um bom tempo. Meu foco atualmente é aprender mais sobre **TDD e Clean Code**.
 
-#### Caso queira acompanhar meus conteúdos:
+### Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/-Javascript-6610F2?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Typescript-6610F2?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-Solidity-6610F2?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-React-6610F2?style=for-the-badge&logo=reactjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/-NextJs-6610F2?style=for-the-badge&logo=nextjs&logoColor=FFFFFF"/>
+</p>
+
+#### Caso queira entrar em contato:
 
 <p align="left">
-  <a href="https://www.instagram.com/willycbueno/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/willycbueno"/>
+  <a href="http://mailto:willybueno09@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-6610F2?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&link=http://mailto:willybueno09@gmail.com"/>
   </a>
   
   <a href="https://www.linkedin.com/in/willybueno" alt="Linkedin">
