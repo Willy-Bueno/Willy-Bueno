@@ -9,13 +9,14 @@
 
 **Aplicações e Dados**
 
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-  https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white  https://img.shields.io/badge/Solidity-e6e6e6? style=for-the-badge&logo=solidity&logoColor=black
-  https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-  https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-  https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white
-  https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-  https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+  <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  
+  <img src= "https://img.shields.io/badge/Solidity-e6e6e6? style=for-the-badge&logo=solidity&logoColor=black"
+  <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  <img src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+  <img src= "https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+  <img src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+  <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
 
 **Utilidades**
 
