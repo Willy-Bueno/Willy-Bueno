@@ -4,7 +4,7 @@
 
    Meu nome é willy, sou um entusiasta em tecnologia, atualmente estudo **análise e desenvolvimento de sistemas** na Uninter. Ainda estou em busca da primeira oportunidade, não tenho uma experiência em uma empresa, porém estudo a um bom tempo. Meu foco atualmente é aprender mais sobre **TDD e Clean Code**.
 
-### Skills minhas 🚀
+### Minhas Skills 🚀
   #### Techs
   <p align="left">
     <img src="https://img.shields.io/badge/-Javascript-6610F2?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
