@@ -1,49 +1,21 @@
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo">
 
-<h3> :man: &nbsp;Sobre mim </h3>
+## Hello World ☕
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com/">Uninter</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TDD e Clean Code**.
+Iuri, ou mais conhecido como iuricode, é um programador instrutor da empresa Digital House. Produz conteúdo desde 2020 sobre desenvolvimento front-end. Extremamente apaixonado por café e cultura japonesa.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+#### Caso queira acompanhar meus conteúdos:
 
-**Aplicações e Dados**
-
-  <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Solidity-e6e6e6? style=for-the-badge&logo=solidity&logoColor=black" />
-  <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src= "https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-  <img src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Utilidades**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-
-**DevOps**
-
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
-
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/Willy-Bueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Willy-Bueno&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Encontre-me: </h3> 
-
-[![Linkedin: Willy Camargo Bueno](https://img.shields.io/badge/-willybueno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willybueno/)](https://www.linkedin.com/in/willybueno/)
-[![Gmail Badge](https://img.shields.io/badge/-willybueno090@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willybueno090@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub Willy Bueno]( https://img.shields.io/github/followers/Willy-Bueno?label=follow&style=social)](https://github.com/Willy-Bueno)
+<p align="left">
+  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/willybueno" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/willybueno"/>
+  </a>
+  
+  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Whatsapp&logoColor=FFFFFF&link=https://discord.gg/QevDJqCzaY"/>
+  </a>
+</p>
