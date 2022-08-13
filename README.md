@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uninter.com/">Uninter</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **TDD e clean code**.
+- 🌱 &nbsp; Aprendendo mais sobre **TDD e Clean Code**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
